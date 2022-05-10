@@ -29,7 +29,7 @@ function BmiScore({ bmiNo, bmiName, changeWeight }) {
       )}
       {changeWeight.type === "normal" && (
         <div className="fs-4">
-          Your weight is normal and good for you &#128512;
+          Your weight is normal and good for you &#128512; !!!!
         </div>
       )}
     </div>
